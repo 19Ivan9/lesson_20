@@ -1,0 +1,12 @@
+Enter: 20:02:37.631457. File info: <_io.TextIOWrapper name='myfile.txt' mode='w' encoding='cp1251'>
+Exit: 20:02:37.631457. File info: <_io.TextIOWrapper name='myfile.txt' mode='w' encoding='cp1251'>
+
+Enter: 20:02:46.108220. File info: <_io.TextIOWrapper name='myfile.txt' mode='w' encoding='cp1251'>
+Exit: 20:02:46.108220. File info: <_io.TextIOWrapper name='myfile.txt' mode='w' encoding='cp1251'>
+
+Enter: 20:02:47.131621. File info: <_io.TextIOWrapper name='myfile.txt' mode='w' encoding='cp1251'>
+Exit: 20:02:47.131621. File info: <_io.TextIOWrapper name='myfile.txt' mode='w' encoding='cp1251'>
+
+Enter: 20:02:48.850914. File info: <_io.TextIOWrapper name='myfile.txt' mode='w' encoding='cp1251'>
+Exit: 20:02:48.850914. File info: <_io.TextIOWrapper name='myfile.txt' mode='w' encoding='cp1251'>
+
